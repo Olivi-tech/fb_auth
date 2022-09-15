@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "874870212592",
+    "project_id": "fir-fb-demo-c8624",
+    "storage_bucket": "fir-fb-demo-c8624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874870212592:android:4a9bd69c3904d553edbf35",
+        "android_client_info": {
+          "package_name": "com.example.fb_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874870212592-e40d7jle8ephamengigtblhp3l3paoc9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fb_auth",
+            "certificate_hash": "205a070d0703252bf7f55184766ba6f2af6ccd20"
+          }
+        },
+        {
+          "client_id": "874870212592-lt33kr8o9lq03328a7uq5s6v7s5be1qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMg1riLoB5u-Rpv0U-iaNauDBZhh2sj6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874870212592-lt33kr8o9lq03328a7uq5s6v7s5be1qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
